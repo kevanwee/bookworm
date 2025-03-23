@@ -31,7 +31,7 @@ python bookworm.py
 3. At this point of time, this currently supports:
    - Amazon
    - Thryft
-   Stay tuned for more updates and more supported websites!
+   - Stay tuned for more updates and more supported websites!
 ---
 
 ## 📋 Example Output in CSV:
