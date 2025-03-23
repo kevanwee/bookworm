@@ -8,7 +8,7 @@ Bookworm is a web scraper that retrieves book prices from Amazon and Thryft base
 
 ### Clone the Repository
 ```
-git clone https://github.com/yourusername/bookworm.git
+git clone https://github.com/kevanwee/bookworm.git
 cd bookworm
 ```
 
