@@ -41,6 +41,7 @@ python bookworm.py
 | Another Book   | 979-9876543210  | 8.99   | 7.20   |
 
 ---
+(See testdata.csv for a sample of the format)
 
 ## 🐛 Troubleshooting
 
