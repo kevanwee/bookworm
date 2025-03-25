@@ -1,6 +1,6 @@
 # 📚 Bookworm: Automated Book Price Scraper
 
-Bookworm is a web scraper that retrieves book prices from Amazon and Thryft based on ISBN-13. It takes a CSV/XLSX file as input and outputs a new CSV with the scraped prices.
+Bookworm is a web scraper that retrieves book prices from Amazon, Thryft and Kinokuniya based on ISBN-13. It takes a CSV/XLSX file as input and outputs a new CSV with the scraped prices.
 
 ---
 
@@ -32,6 +32,7 @@ python bookworm.py
 3. At this point of time, this currently supports:
    - Amazon
    - Thryft
+   - Kinokuniya
    - Stay tuned for more updates and more supported websites!
 ---
 
