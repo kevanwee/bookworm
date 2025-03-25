@@ -1,0 +1,101 @@
+bookID,title,authors,average_rating,isbn13,language_code,  num_pages,ratings_count,text_reviews_count,publication_date,Amazon,Kinokuniya,Thryft
+1,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling/Mary GrandPrÃ©,4.57,978-0439785969,eng,652,2095690,27591,9/16/2006,17.81,Price not found,5.90
+2,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling/Mary GrandPrÃ©,4.49,978-0439358071,eng,870,2153167,29221,2004-01-09 00:00:00,38.48,Price not found,8.90
+4,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.42,978-0439554893,eng,352,6333,244,2003-01-11 00:00:00,Price not found,Price not found,Price not found
+5,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling/Mary GrandPrÃ©,4.56,978-0439655484,eng,435,2339585,36325,2004-01-05 00:00:00,Price not found,Price not found,Price not found
+8,Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5),J.K. Rowling/Mary GrandPrÃ©,4.78,978-0439682589,eng,2690,41428,164,9/13/2004,73.80,Price not found,Price not found
+9,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,3.74,978-0976540601,en-US,152,19,1,4/26/2005,Price not found,Price not found,Price not found
+10,Harry Potter Collection (Harry Potter  #1-6),J.K. Rowling,4.73,978-0439827607,eng,3342,28242,808,2005-12-09 00:00:00,Price not found,Price not found,Price not found
+12,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,978-0517226957,eng,815,3628,254,2005-01-11 00:00:00,61.32,Price not found,Price not found
+13,The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,978-0345453747,eng,815,249558,4080,4/30/2002,30.00,34.88,12.63
+14,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams,4.22,978-1400052929,eng,215,4930,460,2004-03-08 00:00:00,27.34,Price not found,9.35
+16,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams/Stephen Fry,4.22,978-0739322208,eng,6,1266,253,3/23/2005,Price not found,Price not found,Price not found
+18,The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,978-0517149256,eng,815,2877,195,1/17/1996,Price not found,Price not found,Price not found
+21,A Short History of Nearly Everything,Bill Bryson,4.21,978-0767908184,eng,544,248558,9396,9/14/2004,25.40,41.19,7.31
+22,Bill Bryson's African Diary,Bill Bryson,3.44,978-0767915069,eng,55,7270,499,2002-03-12 00:00:00,22.39,23.30,Price not found
+23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,3.87,978-0767910439,eng,256,2088,131,9/14/2004,27.51,34.33,Price not found
+24,In a Sunburned Country,Bill Bryson,4.07,978-0767903868,eng,335,72451,4245,5/15/2001,23.94,34.33,Price not found
+25,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,3.9,978-0767903820,eng,304,49240,2211,6/28/2000,24.41,32.61,Price not found
+26,The Lost Continent: Travels in Small Town America,Bill Bryson,3.83,978-0060920081,eng,299,45712,2257,8/28/1990,24.75,32.94,3.49
+27,Neither Here nor There: Travels in Europe,Bill Bryson,3.86,978-0380713806,eng,254,48701,2238,3/28/1993,26.88,33.25,Price not found
+28,Notes from a Small Island,Bill Bryson,3.91,978-0380727506,eng,324,80609,3301,5/28/1997,24.09,33.25,3.90
+29,The Mother Tongue: English and How It Got That Way,Bill Bryson,3.93,978-0380715435,eng,270,28489,2085,9/28/1991,22.12,30.88,4.90
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.59,978-0345538376,eng,1728,101233,1550,9/25/2012,36.60,Price not found,Price not found
+31,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien,4.5,978-0618517657,eng,1184,1710,91,10/21/2004,110.53,147.59,Price not found
+34,The Fellowship of the Ring (The Lord of the Rings  #1),J.R.R. Tolkien,4.36,978-0618346257,eng,398,2128944,13670,2003-05-09 00:00:00,Price not found,Price not found,Price not found
+35,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien/Alan  Lee,4.5,978-0618260584,en-US,1216,1618,140,2002-01-10 00:00:00,Price not found,194.19,Price not found
+36,The Lord of the Rings: Weapons and Warfare,Chris   Smith/Christopher  Lee/Richard Taylor,4.53,978-0618391004,eng,218,19822,46,2003-05-11 00:00:00,69.87,Price not found,Price not found
+37,The Lord of the Rings: Complete Visual Companion,Jude Fisher,4.5,978-0618510825,eng,224,359,6,11/15/2004,86.82,Price not found,Price not found
+45,Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz,3.84,978-0976694007,eng,558,1430,59,7/28/2005,91.99,Price not found,Price not found
+50,Hatchet (Brian's Saga  #1),Gary Paulsen,3.72,978-0689840920,eng,208,270244,12017,2000-01-04 00:00:00,25.59,Price not found,Price not found
+51,"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",Donna Ickes/Edward Sciranko/Keith Vasconcelles,4,978-1557344496,eng,48,36,2,8/28/1994,Price not found,Price not found,Price not found
+53,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,3.88,978-0385326506,eng,144,2067,334,1/23/2001,84.99,Price not found,Price not found
+54,Molly Hatchet - 5 of the Best,Molly Hatchet,4.33,978-1575606248,eng,56,6,0,2003-10-06 00:00:00,Price not found,Price not found,Price not found
+55,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,3.45,978-1595580276,en-US,228,99,16,2005-01-11 00:00:00,Price not found,23.23,Price not found
+57,A Changeling for All Seasons (Changeling Seasons #1),Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati,3.76,978-1595962805,eng,304,167,4,2005-01-11 00:00:00,105.43,Price not found,Price not found
+58,Changeling (Changeling  #1),Delia Sherman,3.6,978-0670059676,eng,256,978,111,8/17/2006,36.30,Price not found,Price not found
+59,The Changeling Sea,Patricia A. McKillip,4.06,978-0141312620,eng,137,4454,302,4/14/2003,Price not found,9.31,Price not found
+61,The Changeling,Zilpha Keatley Snyder,4.17,978-0595321803,eng,228,1176,96,2004-08-06 00:00:00,Price not found,Price not found,Price not found
+63,The Changeling,Kate Horsley,3.55,978-1590301944,eng,339,301,43,2005-12-04 00:00:00,32.07,Price not found,Price not found
+66,The Changeling (Daughters of England  #15),Philippa Carr,3.98,978-0449146972,eng,369,345,12,8/28/1990,Price not found,Price not found,Price not found
+67,The Known World,Edward P. Jones,3.83,978-0061159176,eng,388,29686,2626,8/29/2006,25.81,Price not found,Price not found
+68,The Known World,Edward P. Jones/Kevin R. Free,3.83,978-0060762735,en-US,14,55,12,6/15/2004,Price not found,Price not found,Price not found
+69,The Known World,Edward P. Jones,3.83,978-0060749910,eng,576,22,3,6/15/2004,Price not found,Price not found,Price not found
+71,Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives,Satyajit Das,3.83,978-0273704744,eng,334,1456,82,5/15/2006,61.11,Price not found,13.52
+72,Artesia: Adventures in the Known World,Mark Smylie,4.13,978-1932386103,eng,352,52,4,12/14/2005,Price not found,Price not found,Price not found
+74,The John McPhee Reader (John McPhee Reader  #1),John McPhee/William Howarth,4.42,978-0374517199,eng,416,562,37,1982-01-06 00:00:00,33.84,Price not found,Price not found
+75,Uncommon Carriers,John McPhee,3.95,978-0374280390,en-US,248,1630,203,5/16/2006,37.02,Price not found,Price not found
+76,Heirs of General Practice,John McPhee,4.17,978-0374519742,eng,128,268,22,1986-01-04 00:00:00,24.99,Price not found,Price not found
+77,The Control of Nature,John McPhee,4.24,978-0374522599,en-US,288,3498,305,1990-01-09 00:00:00,25.91,Price not found,Price not found
+78,Annals of the Former World,John McPhee,4.34,978-0374518738,eng,720,3115,228,1999-06-01 00:00:00,30.03,45.05,Price not found
+79,Coming Into the Country,John McPhee,4.22,978-0374522872,eng,448,5704,261,1991-01-04 00:00:00,25.60,Price not found,Price not found
+80,La Place de la Concorde Suisse,John McPhee,3.92,978-0374519322,fre,160,698,52,1994-01-04 00:00:00,24.22,Price not found,Price not found
+81,Giving Good Weight,John McPhee,4.23,978-0374516000,eng,288,542,36,1994-01-04 00:00:00,31.11,Price not found,Price not found
+83,Rising from the Plains,John McPhee,4.23,978-0374520656,eng,208,1341,98,1987-01-11 00:00:00,23.60,Price not found,4.42
+85,The Heidi Chronicles,Wendy Wasserstein,3.75,978-0822205104,eng,81,1423,70,2002-01-03 00:00:00,33.61,Price not found,Price not found
+86,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,3.84,978-0679734994,eng,249,2766,64,1991-02-07 00:00:00,24.06,Price not found,Price not found
+89,Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening,Heidi Hayes Jacobs,3.94,978-1596670235,eng,138,31,1,3/29/2006,66.20,Price not found,Price not found
+90,Simply Beautiful Beaded Jewelry,Heidi Boyd,3.77,978-1581807745,en-US,128,62,4,3/14/2006,Price not found,Price not found,Price not found
+91,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker/Rolland Baker,4.46,978-0800793616,eng,192,860,53,2003-01-09 00:00:00,39.36,Price not found,Price not found
+92,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,3.68,978-0871202864,en-US,108,77,2,1/28/1997,21.47,Price not found,Price not found
+93,Heidi (Heidi  #1-2),Johanna Spyri/Beverly Cleary/Angelo  Rinaldi,3.99,978-0753454947,eng,352,153317,2257,11/15/2002,44.41,Price not found,Price not found
+94,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,3.25,978-0871209993,eng,192,55,5,11/15/2004,43.87,Price not found,Price not found
+96,There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker/Heidi Baker,4.46,978-1852402877,eng,192,34,6,4/28/2003,Price not found,Price not found,Price not found
+98,What to Expect the First Year (What to Expect),Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome,3.89,978-0761129585,eng,832,11797,659,10/16/2003,26.28,Price not found,Price not found
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss/Libby Keatinge,3.82,978-0972016414,eng,123,34,8,2004-10-05 00:00:00,Price not found,Price not found,Price not found
+100,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.78,978-1581805635,en-US,128,78,4,8/19/2004,Price not found,Price not found,Price not found
+103,God Emperor of Dune (Dune Chronicles  #4),Frank Herbert,3.84,978-0441294671,eng,423,2785,166,6/15/1987,Price not found,Price not found,Price not found
+105,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,3.91,978-0441102679,eng,436,38778,568,1987-01-07 00:00:00,Price not found,Price not found,Price not found
+106,Dune Messiah (Dune Chronicles #2),Frank Herbert,3.88,978-0441172696,eng,331,97494,2359,7/15/1987,Price not found,Price not found,Price not found
+107,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,4.01,978-0765306470,en-US,592,784,21,2004-01-07 00:00:00,30.24,Price not found,Price not found
+109,Heretics of Dune (Dune Chronicles  #5),Frank Herbert,3.86,978-0399128981,eng,480,272,20,4/16/1984,Price not found,Price not found,Price not found
+110,The Road to Dune,Frank Herbert/Brian Herbert/Kevin J. Anderson,3.88,978-0765353702,eng,426,4789,83,8/29/2006,Price not found,Price not found,Price not found
+117,Heretics of Dune (Dune Chronicles #5),Frank Herbert,3.86,978-0441328000,eng,471,45388,644,8/15/1987,Price not found,Price not found,Price not found
+119,The Lord of the Rings: The Art of the Fellowship of the Ring,Gary Russell,4.59,978-0618212903,eng,192,26153,102,2002-12-06 00:00:00,125.48,Price not found,8.90
+122,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,978-0345410054,eng,544,69167,4551,9/29/1996,22.81,Price not found,Price not found
+123,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,978-0385732543,eng,291,45,13,9/13/2005,97.61,Price not found,Price not found
+129,The Power of One: One Person  One Rule  One Month,John C. Maxwell/Stephen R. Graves/Thomas G. Addington,4.28,978-0785260059,en-US,256,16,1,2004-01-11 00:00:00,36.60,Price not found,3.90
+130,Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,3.34,978-0471780939,eng,205,174,16,5/19/2006,48.49,Price not found,Price not found
+131,The Power of One: The Solo Play for Playwrights  Actors  and Directors,Louis E. Catron,3.67,978-0325001531,eng,240,10,0,2000-07-02 00:00:00,Price not found,Price not found,Price not found
+132,How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days,Adam Ginsberg,3.48,978-0060762872,eng,336,76,9,2005-03-05 00:00:00,26.64,Price not found,Price not found
+133,eBay for Dummies,Marsha Collier,3.5,978-0470045299,eng,386,111,9,10/30/2006,70.39,Price not found,Price not found
+135,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta/Lisa Suttora,3.62,978-0072262780,eng,260,24,0,1/24/2006,42.67,Price not found,Price not found
+137,Starting an eBay Business for Dummies,Marsha Collier,3.55,978-0764569241,eng,384,55,4,9/17/2004,Price not found,Price not found,Price not found
+138,eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,4.27,978-0471933823,eng,260,9,0,2006-06-06 00:00:00,35.91,Price not found,Price not found
+139,ebay Timesaving Techniques for Dummies,Marsha Collier,3.39,978-0764559914,en-US,391,22,1,5/31/2004,Price not found,Price not found,Price not found
+140,eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,3.89,978-0764584381,en-US,864,17,3,4/25/2005,Price not found,Price not found,Price not found
+141,Ruby Cookbook,Lucas Carlson/Leonard Richardson,3.84,978-0596523695,eng,873,166,4,7/29/2006,47.87,Price not found,Price not found
+142,Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,4.12,978-0806523491,eng,240,50,5,2005-03-05 00:00:00,36.48,Price not found,Price not found
+144,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,4.08,978-0806525365,eng,206,13,2,2005-03-05 00:00:00,Price not found,Price not found,Price not found
+147,Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,3.48,978-0596527310,eng,514,64,1,2007-01-01 00:00:00,54.88,Price not found,Price not found
+151,Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky,4.05,978-0143035008,eng,838,16643,1851,5/31/2004,23.59,Price not found,11.90
+152,Anna Karenina,Leo Tolstoy/David Magarshack/Priscilla Meyer,4.05,978-0451528612,eng,960,109420,5696,2002-05-11 00:00:00,21.82,Price not found,7.54
+153,Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley,4.05,978-0140449174,eng,837,2904,309,1/30/2003,22.84,Price not found,Price not found
+154,CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman/Leo Tolstoy,3.85,978-0822001836,eng,80,16,3,11/26/1965,17.82,Price not found,Price not found
+155,Anna Karenina,Leo Tolstoy/Amy Mandelker/Constance Garnett,4.05,978-1593080273,eng,803,9564,726,2003-01-07 00:00:00,29.44,Price not found,Price not found
+156,Anna Karenina,Leo Tolstoy/Louise Maude/Aylmer Maude,4.05,978-0486437965,eng,752,474,72,11/23/2004,71.36,Price not found,Price not found
+157,Anna Karenina,Leo Tolstoy/Constance Garnett/Amy Mandelker,4.05,978-1593081775,eng,803,303,48,8/26/2004,34.35,Price not found,Price not found
+159,Dinner with Anna Karenina,Gloria Goldreich,2.99,978-0778322276,eng,360,411,65,1/28/2006,Price not found,Price not found,Price not found
+160,Tolstoy: Anna Karenina,Anthony Thorlby,4.19,978-0521313254,eng,128,1204,33,11/26/1987,57.90,Price not found,Price not found
+162,Untouchable,Mulk Raj Anand/E.M. Forster,3.71,978-0140183955,eng,160,3429,279,1990-03-07 00:00:00,Price not found,Price not found,4.46
+163,The Untouchable,John Banville,3.95,978-0679767473,eng,367,2163,216,6/30/1998,Price not found,Price not found,8.32
